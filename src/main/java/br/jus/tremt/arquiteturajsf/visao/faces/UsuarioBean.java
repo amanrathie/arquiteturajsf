@@ -1,4 +1,4 @@
-package br.jus.tremt.arquiteurajsf.visao.faces;
+package br.jus.tremt.arquiteturajsf.visao.faces;
 
 import javax.faces.bean.ManagedBean;
 import javax.inject.Inject;

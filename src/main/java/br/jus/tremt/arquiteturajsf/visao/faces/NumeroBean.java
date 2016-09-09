@@ -1,4 +1,4 @@
-package br.jus.tremt.arquiteurajsf.visao.faces;
+package br.jus.tremt.arquiteturajsf.visao.faces;
 
 import java.io.Serializable;
 
